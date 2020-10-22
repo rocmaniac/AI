@@ -1,3 +1,4 @@
+#detecting moving objects
 import cv2
 import time
 import imutils
